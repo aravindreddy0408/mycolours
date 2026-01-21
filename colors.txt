@@ -4,3 +4,4 @@ yellow is a color
 orange is a color
 blue is a color
 brown is a color
+indigo is a color
