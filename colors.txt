@@ -3,3 +3,4 @@ pink is a color
 yellow is a color
 orange is a color
 blue is a color
+violet is a color
