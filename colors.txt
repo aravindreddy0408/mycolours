@@ -2,3 +2,4 @@ Red is a color
 pink is a color
 yellow is a color
 orange is a color
+black is a color
